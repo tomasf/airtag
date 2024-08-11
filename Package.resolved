@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "swift-collections",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-collections.git",
+      "state" : {
+        "revision" : "3d2dc41a01f9e49d84f0a3925fb858bed64f702d",
+        "version" : "1.1.2"
+      }
+    },
+    {
+      "identity" : "swift-log",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-log.git",
+      "state" : {
+        "revision" : "9cb486020ebf03bfa5b5df985387a14a98744537",
+        "version" : "1.6.1"
+      }
+    },
+    {
+      "identity" : "swiftscad",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/tomasf/SwiftSCAD.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "244734ae991bb2e7ac6522350a610df1f5506614"
+      }
+    }
+  ],
+  "version" : 2
+}
