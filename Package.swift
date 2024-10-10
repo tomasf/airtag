@@ -17,7 +17,7 @@ let package = Package(
         )
     ],
     dependencies: [
-        .package(url: "https://github.com/tomasf/SwiftSCAD.git", branch: "main"),
+        .package(url: "https://github.com/tomasf/SwiftSCAD.git", from: "0.7.1"),
     ],
     targets: [
         .target(
